@@ -1,4 +1,4 @@
-# Olá sou o Julio sou Desenvolvedor web,Sejá bem vindo ao meu Github! 🎯
+# Olá sou o Julio sou Desenvolvedor web,<br>Sejá bem vindo ao meu Github! 🎯
 - 💻 Sou um Desenvolvedor Web - Front-End (JR).
 - 🏢 Open to work.
 - 📚 cursando no Dev Club.
@@ -12,3 +12,5 @@
 
 ![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=julio1768&show_icons=true&theme=dracula&count_private=true)
  ![Snake animation](https://github.com/elaurenti/elaurenti/blob/output/github-contribution-grid-snake.svg)
+ 
+ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=henriquejulio1768@gmail.com&logoColor=whitehttps://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
