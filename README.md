@@ -11,6 +11,12 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=julio1768&show_icons=true&theme=dracula&count_private=true)
- ![Snake animation](https://github.com/elaurenti/elaurenti/blob/output/github-contribution-grid-snake.svg)
- 
- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=henriquejulio1768@gmail.com&logoColor=whitehttps://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+  <div> 
+  <a href="https://www.instagram.com/juliohs1768/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:henriquejulio1768@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/júlio-henrique-6b70501a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+   ![Snake animation](https://github.com/elaurenti/elaurenti/blob/output/github-contribution-grid-snake.svg)
+
+</div>
